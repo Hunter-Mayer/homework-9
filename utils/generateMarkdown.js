@@ -41,9 +41,9 @@ function generateMarkdown(data) {
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribution](#contribute)
+- [Contribute](#contribute)
 - [Tests](#tests)
-- [License](#licenses)
+- [License](#license)
 - [Contact](#contact)
 
 ## Description
@@ -55,10 +55,10 @@ function generateMarkdown(data) {
 ## Usage
   ${data.usage}
 
-## Contribution:
+## Contribute
   ${data.contribute}
 
-## Tests:
+## Tests
   ${data.tests}
 
 ## License
