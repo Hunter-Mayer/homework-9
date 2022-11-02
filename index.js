@@ -60,7 +60,7 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(data) {
-    fs.writeFile('./README.md', data, error => {
+    fs.writeFile('./Sample_README.md', data, error => {
         if (error) throw error
     })
 }
