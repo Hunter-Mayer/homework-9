@@ -20,18 +20,13 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
-### Screenshot & Video
+### Video Example
 
-![screenshot](here)
-
-Add Video Here
-
-
+https://drive.google.com/file/d/1bnjkvAdL3NevfznyTwnXQ-4rZapswA6A/view
 
 ### Deployed Repo
 
 Github Repo: https://github.com/Hunter-Mayer/homework-9
-
 
 ## Credits
 

@@ -7,24 +7,24 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribution](#contribute)
+- [Contribute](#contribute)
 - [Tests](#tests)
-- [License](#licenses)
+- [License](#license)
 - [Contact](#contact)
 
 ## Description
   My Description
 
 ## Installation
-  My Install
+  My Instructions
 
 ## Usage
   My Usage
 
-## Contribution:
+## Contribute
   My Contribute
 
-## Tests:
+## Tests
   My Tests
 
 ## License
