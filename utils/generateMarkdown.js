@@ -46,25 +46,25 @@ function generateMarkdown(data) {
 - [License](#licenses)
 - [Contact](#contact)
 
-  ## Description
+## Description
   ${data.description}
 
-  ## Installation
+## Installation
   ${data.installation}
 
-  ## Usage
+## Usage
   ${data.usage}
 
-  ## Contribution:
+## Contribution:
   ${data.contribute}
 
-  ## Tests:
+## Tests:
   ${data.tests}
 
-  ## License
+## License
   ${renderLicenseLink(data.license)}
    
-  ## Contact
+## Contact
   Reach out at ${data.email}
   or 
   GitHub at [${data.githubuser}](https://github.com/${data.githubuser})
